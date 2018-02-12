@@ -1,13 +1,16 @@
-##############################################################################################
+##########################################################################################
 This repo contains my solution to the problem below. It is written in Python. 
 
 Files:
 
 README.md  - this readme
+
 test.py    - the solution
+
 input.in   - sample input
+
 output.out - result of running test.py given input.in
-###############################################################################################
+###########################################################################################
 
 
 Some people have been studying the following problem: given two numbers, A and B, how many numbers from A to B, inclusive, 
