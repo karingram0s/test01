@@ -1,3 +1,15 @@
+###############################################################################################################################
+This repo contains my solution to the problem below. It is written in Python. 
+
+Files:
+
+README.md  - this readme
+test.py    - the solution
+input.in   - sample input
+output.out - result of running test.py given input.in
+###############################################################################################################################
+
+
 Some people have been studying the following problem: given two numbers, A and B, how many numbers from A to B, inclusive, 
 are divisible by another number K. For example, if A is 1, B is 10, and K is 3, then there are 3 numbers that satisfy this: 
 3, 6, and 9. Help them by programming a solution to this problem!
